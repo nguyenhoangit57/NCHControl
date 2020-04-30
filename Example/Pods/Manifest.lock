@@ -1,0 +1,16 @@
+PODS:
+  - NCHControl (0.0.1)
+
+DEPENDENCIES:
+  - NCHControl (from `../`)
+
+EXTERNAL SOURCES:
+  NCHControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NCHControl: b5df7743b2804907e60da250a54f37682f8c7caf
+
+PODFILE CHECKSUM: a7f1947fd56a4d2656eef115ae6a8447e41e248b
+
+COCOAPODS: 1.9.1

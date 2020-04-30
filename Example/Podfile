@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'Example' do
+  pod 'NCHControl', :path => '../'
+end
+
+target 'ExampleTests' do
+   inherit! :search_paths
+end

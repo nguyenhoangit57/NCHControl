@@ -1,0 +1,6 @@
+framework module NCHControl {
+  umbrella header "NCHControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
